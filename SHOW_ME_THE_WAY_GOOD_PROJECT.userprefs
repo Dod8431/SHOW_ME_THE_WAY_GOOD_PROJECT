@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PUZZLE1_ENTRANCE\PZ1Controller.cs">
+    <Files>
+      <File FileName="Assets\PUZZLE1_ENTRANCE\PZ1Dall.cs" Line="26" Column="45" />
+      <File FileName="Assets\PUZZLE1_ENTRANCE\PZ1Controller.cs" Line="26" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
